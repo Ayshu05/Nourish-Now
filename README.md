@@ -36,7 +36,7 @@ To run this project, you will need to have the following installed:
   pip install firebase-admin
 
 
-# Run the Server
+## Run the Server
 python manage.py runserver
 
 Open your browser and navigate to http://127.0.0.1:8000/ to see the application.
